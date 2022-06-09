@@ -18,3 +18,8 @@ body {
   h1 {
       color: #66BFBF;
   }
+
+  img {
+      width: 100px;
+      height: auto;
+  }
